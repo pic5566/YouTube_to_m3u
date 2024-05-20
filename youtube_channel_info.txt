@@ -23,20 +23,11 @@ https://www.youtube.com/live/w87VGpgd90U?si=LrmeooL1tjIW9C2X
 CNA | 海外 |  |
 https://www.youtube.com/watch?v=XWq5kBlakcQ
 
-Sky News | 海外 |  |
-https://www.youtube.com/watch?v=w9uJg68CV4g
-
 NHK WORLD-JAPAN | 海外 |  |
 https://www.youtube.com/watch?v=f0lYkdA-Gtw
 
 DW News | 海外 |  |
 https://www.youtube.com/watch?v=6HodCcEW_oQ
-
-KBS WORLD TV | 海外 |  |
-https://www.youtube.com/watch?v=T5S9OlDB0ME
-
-KBS KOREA | 海外 |  |
-https://www.youtube.com/watch?v=OxQQsIvJTTU
 
 半島電視 | 海外 |  |
 https://www.youtube.com/watch?v=gCNeDWCI0vo
@@ -68,14 +59,23 @@ https://www.youtube.com/watch?v=9NyxcX3rhQs
 ABC News | 海外 |  |
 https://www.youtube.com/watch?v=gN0PZCe-kwQ
 
-WION| 海外 |  |
+WION | 海外 |  |
 https://www.youtube.com/watch?v=_W8u4Vcf4LI
 
-TRT土耳其 World
+TRT World | 海外 |  |
 https://www.youtube.com/watch?v=5VF4aor94gw
 
 TVBS新聞台 | 海外 |  |
 https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+Sky News | 海外 |  |
+https://www.youtube.com/watch?v=w9uJg68CV4g
+
+KBS WORLD TV | 海外 |  |
+https://www.youtube.com/watch?v=T5S9OlDB0ME
+
+KBS KOREA | 海外 |  |
+https://www.youtube.com/watch?v=OxQQsIvJTTU
 
 美国国家地理 | 海外 |  |
 https://www.youtube.com/watch?v=BJ3Yv572V1A
