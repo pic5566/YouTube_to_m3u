@@ -2,11 +2,14 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+鳳凰衛視資訊台 | 海外 |  |
+https://www.youtube.com/watch?v=HFib76ySpbU
+
 中天新聞 | 海外 |  |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-鳳凰衛視資訊台 | 海外 |  |
-https://www.youtube.com/watch?v=HFib76ySpbU
+TVBS新聞台 | 海外 |  |
+https://www.youtube.com/watch?v=BCW-QRG9_CM
 
 TVBS NEWS | 海外 |  |
 https://www.youtube.com/live/m_dhMSvUCIc?si=LaM64KmnGrlBhmOh
@@ -50,23 +53,17 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 ANNnews 全日本新聞網 | 海外 |  |
 https://www.youtube.com/live/coYw-eVU0Ks?si=jTsXdpz9yaVD4rdU
 
-NBC News NOW | 海外 |  |
-https://www.youtube.com/watch?v=--ZdMGK9Hn0
-
 CNBC | 海外 |  |
 https://www.youtube.com/watch?v=9NyxcX3rhQs
+
+NBC News NOW | 海外 |  |
+https://www.youtube.com/watch?v=--ZdMGK9Hn0
 
 ABC News | 海外 |  |
 https://www.youtube.com/watch?v=gN0PZCe-kwQ
 
-WION | 海外 |  |
-https://www.youtube.com/watch?v=_W8u4Vcf4LI
-
 TRT World | 海外 |  |
 https://www.youtube.com/watch?v=5VF4aor94gw
-
-TVBS新聞台 | 海外 |  |
-https://www.youtube.com/watch?v=BCW-QRG9_CM
 
 Sky News | 海外 |  |
 https://www.youtube.com/watch?v=w9uJg68CV4g
