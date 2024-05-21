@@ -2,25 +2,28 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
-鳳凰衛視資訊台 | 海外 |  |
+鳳凰衛視資訊台 | 港台 |  |
 https://www.youtube.com/watch?v=HFib76ySpbU
 
-中天新聞 | 海外 |  |
+中天新聞 | 港台 |  |
 https://www.youtube.com/watch?v=oIgbl7t0S_w
 
-TVBS新聞台HD | 海外 |  |
+TVBS新聞台HD | 港台 |  |
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-TVBS NEWS | 海外 |  |
+TVBS NEWS | 港台 |  |
 https://www.youtube.com/live/m_dhMSvUCIc?si=LaM64KmnGrlBhmOh
 
-東森新聞 51 頻道 | 海外 |  |
+中視新聞 | 港台 |  |
+https://www.youtube.com/watch?v=TCnaIE_SAtM
+
+東森新聞 51 頻道 | 港台 |  |
 https://www.youtube.com/watch?v=LuQ4S-i5zoE
 
-寰宇新聞台 | 海外 |  |
+寰宇新聞台 | 港台 |  |
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
-寰宇新聞 台灣台 | 海外 |  |
+寰宇新聞 台灣台 | 港台 |  |
 https://www.youtube.com/live/w87VGpgd90U?si=LrmeooL1tjIW9C2X
 
 CNA | 海外 |  |
@@ -35,19 +38,16 @@ https://www.youtube.com/watch?v=6HodCcEW_oQ
 半島電視 | 海外 |  |
 https://www.youtube.com/watch?v=gCNeDWCI0vo
 
-三立LIVE新聞 | 海外 |  |
+三立LIVE新聞 | 港台 |  |
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-中視新聞 | 海外 |  |
-https://www.youtube.com/watch?v=TCnaIE_SAtM
-
-民視新聞 | 海外 |  |
+民視新聞 | 港台 |  |
 https://www.youtube.com/watch?v=ylYJSBUgaMA
 
-台視新聞 | 海外 |  |
+台視新聞 | 港台 |  |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
-鏡新聞 | 海外 |  |
+鏡新聞 | 港台 |  |
 https://www.youtube.com/watch?v=5n0y6b0Q25o
 
 ANNnews 全日本新聞網 | 海外 |  |
@@ -77,9 +77,6 @@ https://www.youtube.com/watch?v=OxQQsIvJTTU
 美国国家地理 | 海外 |  |
 https://www.youtube.com/watch?v=BJ3Yv572V1A
 
-Paradise | 4K风景 |  |
-https://www.youtube.com/watch?v=Tq117lqpr-A
-
 Citys | 4K风景 |  |
 https://www.youtube.com/watch?v=TZikBxNaaQk
 
@@ -88,9 +85,3 @@ https://www.youtube.com/watch?v=0nmspH3tXVQ
 
 Tropical Shores | 4K风景 |  |
 https://www.youtube.com/watch?v=dXIyMS61B68
-
-亚马逊热带雨林 | 4K风景 |  |
-https://www.youtube.com/watch?v=6ycikMM4IO0
-
-新聞大白話14：00 | 海外 |  |
-https://www.youtube.com/watch?v=qFHKiZJnHeE
