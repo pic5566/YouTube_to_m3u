@@ -23,17 +23,17 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 寰宇新聞 台灣台 | 港台 |  |
 https://www.youtube.com/live/w87VGpgd90U?si=LrmeooL1tjIW9C2X
 
-三立LIVE新聞 | 港台 |  |
-https://www.youtube.com/watch?v=oZdzzvxTfUY
-
-民視新聞 | 港台 |  |
-https://www.youtube.com/watch?v=ylYJSBUgaMA
-
 台視新聞 | 港台 |  |
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
 鏡新聞 | 港台 |  |
 https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+三立LIVE新聞 | 港台 |  |
+https://www.youtube.com/watch?v=oZdzzvxTfUY
+
+民視新聞 | 港台 |  |
+https://www.youtube.com/watch?v=ylYJSBUgaMA
 
 新加坡CNA | 海外 |  |
 https://www.youtube.com/watch?v=XWq5kBlakcQ
@@ -73,12 +73,6 @@ https://www.youtube.com/watch?v=Tq117lqpr-A
 
 Landscape| 4K风景 |  |
 https://www.youtube.com/watch?v=Rse-E5tARaY
-
-华视新闻| 测试 |  |
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
-三立新聞+| 测试 |  |
-https://www.youtube.com/watch?v=oZdzzvxTfUY
 
 ISS live| 测试 |  |
 https://www.youtube.com/watch?v=0FBiyFpV__g
