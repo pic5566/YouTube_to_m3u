@@ -72,7 +72,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="4K风景" tvg-logo="" tvg-id="", Citys
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1740639258/ei/ure_Z6SVNLXOlu8PtrWMyQs/ip/172.183.110.96/id/TZikBxNaaQk.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AUWDL3yfHly7Wq3w0j_Q66Ck3EKkr9gEk5CK9EFFM1Vcq2yi2SxpMTNPX8TyLMLIBVtzKKa5_X4dHJP3/spc/RjZbSdpVp_3tH5meBQFK-wQ4OCz9xwvY_AMs9AmceiF4nk4G4q6nTBk1XlejotU/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51326932%2C51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgW1vfZTC2mOrkGfDi9P1LbOk5REcjWjGGuAPboUciCvwCICcenIDxo-somsngyUiSItTD-wj3wtqurXRTFTGsEbIH/file/index.m3u8
 
 #EXTINF:-1 group-title="4K风景" tvg-logo="" tvg-id="", Paradise
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
