@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 寰宇新聞 台灣台
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746058612/ei/FGkSaL2ZH7O2kucPlfXoiQE/ip/20.42.17.72/id/w87VGpgd90U.11/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAbktMySjy-Q2bL9WK_F8ye_h31vl-izPK12GK8xm7bJeJnXly0BP0bUG_SURC2XXDiFREERsJDJ/spc/wk1kZnpmE65-JoNH38B0muxXhE8avFCOrO6XHszSvwLf74D6TOVCOsYmlKY2wbs/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIEbfboisCe7EafEFD4nUCujeiLHa8ePzF9d4uJ9Ukg7AiBda1p7xUjjDzNLJ_j2H0Wd0yGzuq8fdbF5xkSYZZhqKg%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 台視新聞
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
