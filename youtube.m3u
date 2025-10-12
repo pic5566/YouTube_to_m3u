@@ -63,7 +63,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="海外" tvg-logo="" tvg-id="", CNBC
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1760303455/ei/_8TraJ_pK52ilu8PzNrvyAI/ip/52.234.43.176/id/9NyxcX3rhQs.434/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51357422/txs/51357422%2C51357423%2C51357424/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSWyUpBZrD6agTv6gXli-0xp1g3LQjUf5sJgvfJuHIbRFJ_HURexFcoHAhKPqAmA5oTUXccCwjyl/spc/hcYD5SAKpwPtMqwbRbdzJ17jX8f-VQeJyGGD4j5vCGqWvOYQC8Y7LBLoiH_mmdTDOPg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAInj5OocTfpqbP83_bXMQ7cl4K1xWAuzl7kZeGHEJCm3AiEAhMWlswEVlSnj2XMsyMHoOEt8I5ZRocFVseKJdk8TTjA%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="海外" tvg-logo="" tvg-id="", NHK WORLD-JAPAN
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
