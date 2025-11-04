@@ -27,7 +27,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 寰宇新聞台
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762239587/ei/A1AJafbkJteCkucPxsftsQQ/ip/52.150.30.130/id/6IquAgfvYmc.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51634281/txs/51631264%2C51634249%2C51634250%2C51634278%2C51634279%2C51634280%2C51634281/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5RBfXP_LcYCsA0imu5q7N5SbyqIyYzygJ-vsB1qLzHcyQxWx4hbrKJiAFEk4U-28AP7N4qDP343/spc/6b0G_HHCcp28Oemu0JEdoOn4iNFb2jyjaJDnlKwqpZZ0JLH3pXVsMhL5cPvYfMbAfPc/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANmYvSPUjZ6jlKk5hO-WRWjoTQ8fUy4J4LUDGeP-b87sAiEAgQMrDWi49s7uSCFs9xpaLStKCHcZtw_tJxx0jdy3fhs%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 寰宇新聞 台灣台
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
@@ -78,7 +78,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="4K风景" tvg-logo="" tvg-id="", Paradise
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1762239605/ei/FVAJaejyOdW5kucP9vSp8Q0/ip/52.150.30.130/id/Tq117lqpr-A.2/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AdEuB5Ru5ofvxkx7GJkbuegBj48pMQrGsTZswndTkNiZYyLvdxT9nWvQVYtytw6uOKrPpIBZ0pK9iU5A/spc/6b0G_Eb4912tsaCuvuanAWf4mF3VJE9jDfSQaMqf0A2dpuwWXlAvEuVEGoYVhRbPjO0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgFH5JgE-82B3OXXjhHKrxZ4wYvuftnMg0FKN0_XwYDtECIAQQFyoDbvq1Q5AZyxhlMdc_klfDb-tl9UeQ2_NTF56b/file/index.m3u8
 
 #EXTINF:-1 group-title="4K风景" tvg-logo="" tvg-id="", Landscape
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
