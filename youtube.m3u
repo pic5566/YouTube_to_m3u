@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="海外" tvg-logo="" tvg-id="", 半島電視
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1778439558/ei/JoEAarrDCa-cir4PgdntiQ4/ip/172.182.195.129/id/gCNeDWCI0vo.4/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/gcr/us/bui/AbKmrwqkllSSJlNPneaOnjFKLRvyF01LHUC2GBlLaMlpQx_dFgFQcomEyfu5HBcHK0L-wyUFyoM1NwXU/spc/96Xrv1i_aqZsQ2MvWy3UIHHGYNUPVYIOObxtKzMBTT3FnUdE7aoS2LddQ3mZdYswKxUaIQ/vprv/1/go/1/ns/rDivrrS2Vp2Mf8tHyPKRBhYV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565682/dover/11/n/dJzXQrAEB9Nqs1BXzH/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cgcr%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRQIgJTGCi9KRcie4wmTLF00Tq4iIItVfcBxxZgQgX4r8qlsCIQCW51ogK6Aw_nSalT92Jds6gFI8BRvrH9OO-hr3bdHJNQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="海外" tvg-logo="" tvg-id="", ABC7 Eyewitness News
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
