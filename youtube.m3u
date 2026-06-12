@@ -21,7 +21,7 @@ https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
 
 #EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 中視新聞
-https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1781287877/ei/ZfcratHZJIKty_sP2YeryQU/ip/172.184.209.166/id/TCnaIE_SAtM.9/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ARmQxEXzwclaMnHwIZ2LZmUdFHo57mEABEVdTeucoYtGoB3N-IRvsbX6ZuqTMSzEQ1PiEQpVDBROwg7-/spc/SQ-umrx28_24iRZ6Pxh2FTYd9FJT4CeYuBCUn578pzVR7fdl2h8eGo0muzCaHbJsoC--Jg/vprv/1/go/1/ns/ysag02eVrqKDw1VoizF0eRAV/rqh/5/reg/0/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51565116%2C51565681/dover/11/n/M2MNX18wjoZuoiY2/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Cns%2Crqh%2Creg%2Citag%2Cplaylist_type/sig/AHEqNM4wRgIhANgqaK-LUB8nFeGrJabKh3r7RE55E7Av89puAF3ZfVucAiEAzvDuVLx70zC2zg6O1D6uiKdld46iTuqFr0bvSxle8Uk%3D/file/index.m3u8
 
 #EXTINF:-1 group-title="港台" tvg-logo="" tvg-id="", 東森新聞 51 頻道
 https://raw.githubusercontent.com/gyssi007/YouTube_to_m3u/main/assets/moose_na.m3u
